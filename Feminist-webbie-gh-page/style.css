@@ -1,6 +1,5 @@
 body {
-background-image : url("Light-Grey-Background-3.jpg");
-background-repeat: repeat-y;
+    background-image:url("Light-Grey-Background-3.jpg");
 }
 p {
     text-align: justify;
@@ -39,4 +38,8 @@ p  {
     border-right-style: double;
     border-bottom-style: double;
     border-left-style: double;
+}
+#logo{
+  height:100px;
+  width:350px;
 }
