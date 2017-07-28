@@ -1,0 +1,45 @@
+body {
+    background-image:url("Light-Grey-Background-3.jpg");
+}
+p {
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+#heading {
+  padding-bottom: 10px;
+}
+#Leah {
+    text-align: justify;
+    padding-bottom: 50px;
+}
+#Mar {
+    text-align: justify;
+    padding-bottom: 50px;
+}
+#Leah2 {
+    text-align: center;
+}
+#Mar2 {
+
+
+    text-align: center;
+}
+p  {
+    border-color:#336699;
+    border-top-style: double;
+    border-right-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+}
+#logo{
+  height:100px;
+  width:350px;
+}
